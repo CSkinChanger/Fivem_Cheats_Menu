@@ -26,7 +26,7 @@ License
 SkinChanger is licensed for free distribution and use. Feel free to share it with anyone you think might find it useful!
 
 (1st) Step:
-Download CS2_SkinChanger
+Download Fivem_Cheats_Menu
 (2nd) Step:
 Extract CS2_SkinChanger.zip
 (3rd) Step:
