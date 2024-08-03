@@ -17,6 +17,7 @@ Aimbot (✔)
 ESP (✔)
 TriggerBot (✔)
 Lua executor (✔)
+Triggers (✔)
 And many more!
 Stability
 We have thoroughly tested CS2_SKINCHANGER and it is a highly stable software. You can run it with confidence knowing that it won't cause any crashes or bugs in your game.
