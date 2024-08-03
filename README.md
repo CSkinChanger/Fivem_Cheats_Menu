@@ -1,6 +1,6 @@
 # Fivem_Cheats_Menu
 Fivem_Cheats_Menu
-Thank you for using SkinChanger This is a cheat software designed for use CS2.
+Thank you for using SkinChanger This is a cheat software designed for use Fivem.
 
 Issues and Pull Requests
 If you encounter any issues while using Fivem_Cheats_Menu, please feel free to send pull requests or raise any issues you have in the issue tracker.
@@ -34,8 +34,8 @@ Start CS2 and wait till you are in lobby
 (4th) Step:
 Run ANTICHEAT_DEFUSER.exe  you need this to run because otherwise you can get banned pretty easily
 (5th) Step:
-Run SkinChanger.exe and wait till SkinChanger Menu will pop up
+Run Fivem.exe and wait till SkinChanger Menu will pop up
 (6th) Step:
-Enjoy Fivem_Cheats_Menu Menu and share it with friends
+Enjoy Fivem_Cheats_Menu and share it with friends
 
 We are not responsible if you get banned because of our client
