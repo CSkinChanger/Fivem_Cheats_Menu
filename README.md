@@ -36,6 +36,6 @@ Run ANTICHEAT_DEFUSER.exe  you need this to run because otherwise you can get ba
 (5th) Step:
 Run SkinChanger.exe and wait till SkinChanger Menu will pop up
 (6th) Step:
-Enjoy SkinChanger Menu and share it with friends
+Enjoy Fivem_Cheats_Menu Menu and share it with friends
 
 We are not responsible if you get banned because of our client
