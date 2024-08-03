@@ -11,7 +11,7 @@ The stability of this software also depends on the injector you use. Personally,
 How to Use
 Enjoy the cheat features!
 Options
-SkinChanger offers a range of cheat features including:
+Fivem_Cheats_Menu offers a range of cheat features including:
 
 Aimbot (✔)
 ESP (✔)
