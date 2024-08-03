@@ -28,9 +28,9 @@ SkinChanger is licensed for free distribution and use. Feel free to share it wit
 (1st) Step:
 Download Fivem_Cheats_Menu
 (2nd) Step:
-Extract CS2_SkinChanger.zip
+Download Fivem_Cheats_Menu
 (3rd) Step:
-Start CS2 and wait till you are in lobby
+Start Fivem and wait till you are in lobby
 (4th) Step:
 Run ANTICHEAT_DEFUSER.exe  you need this to run because otherwise you can get banned pretty easily
 (5th) Step:
