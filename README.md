@@ -1,10 +1,9 @@
 # Fivem_Cheats_Menu
-# CS2SKINCHANGER
-CS2__SKINCHANGER
+Fivem_Cheats_Menu
 Thank you for using SkinChanger This is a cheat software designed for use CS2.
 
 Issues and Pull Requests
-If you encounter any issues while using SkinChanger, please feel free to send pull requests or raise any issues you have in the issue tracker.
+If you encounter any issues while using Fivem_Cheats_Menu, please feel free to send pull requests or raise any issues you have in the issue tracker.
 
 Attention
 The stability of this software also depends on the injector you use. Personally, we recommend using ExtremeCheat. You can download it here.
